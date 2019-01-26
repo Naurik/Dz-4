@@ -1,0 +1,7 @@
+c:\users\acer-pc\source\repos\ClassModul4\ClassModul4\bin\Debug\ClassModul4.exe.config
+c:\users\acer-pc\source\repos\ClassModul4\ClassModul4\bin\Debug\ClassModul4.exe
+c:\users\acer-pc\source\repos\ClassModul4\ClassModul4\bin\Debug\ClassModul4.pdb
+c:\users\acer-pc\source\repos\ClassModul4\ClassModul4\obj\Debug\ClassModul4.csprojAssemblyReference.cache
+c:\users\acer-pc\source\repos\ClassModul4\ClassModul4\obj\Debug\ClassModul4.csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\ClassModul4\ClassModul4\obj\Debug\ClassModul4.exe
+c:\users\acer-pc\source\repos\ClassModul4\ClassModul4\obj\Debug\ClassModul4.pdb
